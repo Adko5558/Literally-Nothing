@@ -1,0 +1,7 @@
+name: LiterallyNothing
+version: 1.0.2
+main: online.zx_spectrum.LiterallyNothing
+api-version: "1.20"
+description: The ultimate universal plugin that does literally nothing and runs on everything. There are no changes to the game.
+authors: [ZX-Spectrum.online]
+website: https://zx-spectrum.online

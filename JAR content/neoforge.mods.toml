@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All-Rights-Reserved"
+
+[[mods]]
+modId="literally_nothing"
+version="1.0.2"
+displayName="Literally Nothing"
+displayURL="https://zx-spectrum.online"
+logoFile="icon.png"
+authors="ZX-Spectrum.online"
+description='''
+The ultimate universal mod that does literally nothing and runs on everything. There are no changes to the game. On server version it might say the plugins name, but it still does nothing.
+'''
+
+[[dependencies.literally_nothing]]
+modId="neoforge"
+mandatory=true
+versionRange="[1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.literally_nothing]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20,)"
+ordering="NONE"
+side="BOTH"

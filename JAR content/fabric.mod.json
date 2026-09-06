@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "literally_nothing",
+  "version": "1.0.2",
+  "name": "Literally Nothing",
+  "description": "The ultimate universal mod that does literally nothing and runs on everything. There are no changes to the game. On server version it might say the plugins name, but it still does nothing.",
+  "authors": [
+    "ZX-Spectrum.online"
+  ],
+  "contact": {
+    "email": "support@zx-spectrum.online",
+    "discord": "Adko5558"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "icon.png",
+  "environment": "*"
+}
