@@ -1,4 +1,4 @@
-## For best experience, you should go to https://modrinth.com/plugin/literally-nothing-mod
+## https://modrinth.com/plugin/literally-nothing-mod
 ![Mod banner showing a minimalist preview](https://cdn.modrinth.com/data/cached_images/765d143041b17e94ef93b82c8e30d086e036c6c3.png)
 
 <img src="https://tr7zw.github.io/uikit/divider_faded/Divider_03.png" alt="Minecraft totem themed divider">
