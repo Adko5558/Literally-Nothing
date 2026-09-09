@@ -5,7 +5,8 @@
 ## 🌌 Welcome to Literally Inc. HQ
 This GitHub repository serves as our backend station, but let's be honest — GitHub is a bit outdated for our revolutionary standard. Our main operations run over at Modrinth!
 We highly recommend heading to our official project page for the latest optimized versions:
-👉 Get the Official Release on Modrinth
+<br><br>
+👉 [Get the Official Release on Modrinth](https://modrinth.com/mod/literally-nothing)
 
 ## 📦 Code & Releases Notice
 The code and asset releases hosted here on GitHub might be outdated. However, we actively utilize this platform for our community hub! Feel free to visit the Issues tab to report anomalies or hop into Discussions to flex your zero-RAM setup with other enthusiasts.
