@@ -1,50 +1,44 @@
 name: "Bug Report"
-fields:
-- type: "checkboxes"
-  attributes:
-    label: "Select Issue Category:"
-    options:
-    - label: "Bug"
+description: "Report a bug or an issue with the mod"
+body:
+  - type: "checkboxes"
+    attributes:
+      label: "Select Issue Category:"
+      options:
+        - label: "Bug"
+        - label: "Platform addition"
+        - label: "Mod did something"
+        - label: "Crash"
+        - label: "Other"
+    validations:
       required: false
-    - label: "Platform addition"
-      required: false
-    - label: "Mod did something"
-      required: false
-    - label: "Crash"
-      required: false
-    - label: "Other"
-      required: false
-  validations:
-    required: false
-- type: "textarea"
-  attributes:
-    label: "Please describe the problem:"
-    description: "Provide a detailed description of the issue, including steps to reproduce and any error messages."
-    placeholder: "When I do... it does... and ..."
-  validations:
-    required: true
-- type: "textarea"
-  attributes:
-    label: "Expected Behavior:"
-    description: "Describe what should have happened or how this feature is supposed to work."
-    placeholder: "I want it to work on Babric v1.2.3 cuz im oldschool ahhh whatever"
-  validations:
-    required: true
-- type: "textarea"
-  attributes:
-    label: "Additional Details:"
-    description: "Provide any extra links, system information, or error logs related to this request."
-    placeholder: "Windows 13 Intel Core ultra xeon i9999999 800 zottabytes of RAM 1 Kb of floppy disk storage | error: not enough storage to install this mod it needs 7 KB u got 1 ;("
-  validations:
-    required: false
-- type: "checkboxes"
-  attributes:
-    label: "I have searched existing issues and this is not a duplicate:"
-    description: "Check this box to confirm that you looked through the open issues before submitting."
-    options:
-    - label: "Yes"
+  - type: "textarea"
+    attributes:
+      label: "Please describe the problem:"
+      description: "Provide a detailed description of the issue, including steps to reproduce and any error messages."
+      placeholder: "When I do... it does... and ..."
+    validations:
       required: true
-    - label: "No you dumbass >:("
+  - type: "textarea"
+    attributes:
+      label: "Expected Behavior:"
+      description: "Describe what should have happened or how this feature is supposed to work."
+      placeholder: "I want it to work on Babric v1.2.3 cuz im oldschool ahhh whatever"
+    validations:
+      required: true
+  - type: "textarea"
+    attributes:
+      label: "Additional Details:"
+      description: "Provide any extra links, system information, or error logs related to this request."
+      placeholder: "Windows 13 Intel Core ultra xeon i9999999 800 zottabytes of RAM 1 Kb of floppy disk storage | error: not enough storage to install this mod it needs 7 KB u got 1 ;("
+    validations:
       required: false
-  validations:
-    required: false
+  - type: "checkboxes"
+    attributes:
+      label: "I have searched existing issues and this is not a duplicate:"
+      description: "Check this box to confirm that you looked through the open issues before submitting."
+      options:
+        - label: "Yes"
+        - label: "No you dumbass >:("
+    validations:
+      required: false
