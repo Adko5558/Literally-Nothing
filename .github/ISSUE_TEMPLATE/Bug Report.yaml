@@ -39,6 +39,5 @@ body:
       description: "Check this box to confirm that you looked through the open issues before submitting."
       options:
         - label: "Yes"
-        - label: "No you dumbass >:("
     validations:
-      required: false
+      required: true
