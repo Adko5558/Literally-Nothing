@@ -1,5 +1,5 @@
-name: "Bug Report"
-description: "Report a bug or an issue with the mod"
+name: "SELECT THIS TEMPLATE!"
+description: "You most likely are gonna need this one. Select Blank Issue only if you need to."
 body:
   - type: "checkboxes"
     attributes:
