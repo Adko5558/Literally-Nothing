@@ -2,11 +2,13 @@
 
 <img src="https://tr7zw.github.io/uikit/divider_faded/Divider_03.png" alt="Minecraft totem themed divider">
 
-## 🌌 Welcome to Literally Inc. HQ
-This GitHub repository serves as our backend station, but let's be honest — GitHub is a bit outdated for our revolutionary standard. Our main operations run over at Modrinth!
-We highly recommend heading to our official project page for the latest optimized versions:
+## wElCoMe tO Literally Nothing, a Literally Inc. project :D
+bTw I would like to tell you, that GiThUb repository + releases are a little bit outdated, I publish alot of them and I'm too lazy to keep them synced on both Modrinth and GitHub. I recommend you to...:
 <br><br>
 👉 [Get the Official Release on Modrinth](https://modrinth.com/mod/literally-nothing)
 
-## 📦 Code & Releases Notice
-The code and asset releases hosted here on GitHub might be outdated. However, we actively utilize this platform for our community hub! Feel free to visit the Issues tab to report anomalies or hop into Discussions to flex your zero-RAM setup with other enthusiasts.
+## WHY DOES THIS GITHUB EVEN EXIST DAAAAAMN
+The answer is simple :D If your eyes aren't tired that much, you can look up... and see the issues and discussions tab! You can talk there instead of Modrinth, that's how we use GitHub ;DDD
+
+## Why are you talking like an idiot
+idk cuz its funni and im crazy atm
