@@ -41,3 +41,12 @@ body:
         - label: "Yes"
     validations:
       required: true
+        - type: "checkboxes"
+    attributes:
+      label: "I have read the FAQ on Modrinth:"
+      description: "Check this box to confirm that you looked through the FAQ available on Modrinth project page before submitting. "
+      options:
+        - label: "Yes"
+    validations:
+      required: true
+
